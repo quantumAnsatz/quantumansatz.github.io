@@ -45,7 +45,7 @@ la necesidad de refrigeración extrema.
 
 ## Stack Tecnológico
 
-    Hadamard Gate (H)
+    Porton de Jadamar (J)
           │
           ▼
     Superposición Tropical
@@ -59,7 +59,7 @@ la necesidad de refrigeración extrema.
 Tecnologías clave:
 
 -   **Arquitectura Chigüire-Q**
--   **Compuertas Hadamard nativas**
+-   **Compuertas Jadamar nativas**
 -   **Entrelazamiento caribeño**
 -   **Corrección de errores con arepa parity codes**
 
@@ -86,7 +86,7 @@ print("Estado cuántico:", result)
 ## Aplicaciones
 
 -   Optimización de rutas de mototaxis
--   Simulación cuántica del clima de Maracaibo
+-   Simulación cuántica del relámpago del Catatumbo
 -   Predicción probabilística de si se acabó el café en la oficina
 -   Criptografía pos-arepa
 
