@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Site Under Construction</title>
+
+<style>
+    body{
+        margin:0;
+        font-family: Arial, Helvetica, sans-serif;
+        background: linear-gradient(135deg,#1f2937,#111827);
+        color:white;
+        display:flex;
+        align-items:center;
+        justify-content:center;
+        height:100vh;
+        text-align:center;
+    }
+
+    .container{
+        max-width:600px;
+        padding:40px;
+        background:rgba(255,255,255,0.05);
+        border-radius:12px;
+        box-shadow:0 10px 30px rgba(0,0,0,0.4);
+    }
+
+    h1{
+        font-size:48px;
+        margin-bottom:10px;
+    }
+
+    p{
+        font-size:18px;
+        opacity:0.85;
+    }
+
+    .spinner{
+        margin:30px auto;
+        width:50px;
+        height:50px;
+        border:5px solid rgba(255,255,255,0.2);
+        border-top:5px solid #3b82f6;
+        border-radius:50%;
+        animation:spin 1s linear infinite;
+    }
+
+    @keyframes spin{
+        from{ transform:rotate(0deg); }
+        to{ transform:rotate(360deg); }
+    }
+
+    footer{
+        margin-top:25px;
+        font-size:14px;
+        opacity:0.6;
+    }
+</style>
+</head>
+
+<body>
+
+<div class="container">
+    <h1>🚧 Under Construction</h1>
+    <div class="spinner"></div>
+    <p>
+        Our website is currently being built.<br>
+        Please check back soon.
+    </p>
+
+    <footer>
+        © 2026 QuantumAnsatz
+    </footer>
+</div>
+
+</body>
+</html>
