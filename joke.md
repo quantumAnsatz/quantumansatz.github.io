@@ -21,7 +21,7 @@ la necesidad de refrigeración extrema.
 
 -   🌡️ **Temperatura operativa:** superior a la de Maracaibo
 -   ⚛️ **Arquitectura:** cúbits tropicalizados de alta estabilidad
--   🔀 **Compuertas nativas:** Hadamard optimizada
+-   🔀 **Compuertas nativas:** Jadamard optimizada
 -   ☕ **Energía:** alimentado parcialmente por café venezolano
 
 > *Si tu computadora necesita un refrigerador industrial, estás haciendo
